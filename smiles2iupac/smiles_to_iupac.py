@@ -18,7 +18,7 @@ warnings.filterwarnings("ignore")
 
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description="Your program description here.")
+    parser = argparse.ArgumentParser(description="SMILES to IUPAC.")
     parser.add_argument('-f', '--dataset_filename', type=str, default='BBBP100.csv',
                         help='Filename for the dataset (default: "BBBP100.csv")')    
     parser.add_argument('--smiles_col', type=str, default='smiles',
