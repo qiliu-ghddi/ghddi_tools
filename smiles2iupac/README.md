@@ -35,6 +35,7 @@ python smiles_to_iupac.py -f BBBP5.csv --smiles_col "smiles" --index_col "num"
 ```
 conda create --name STOUT python=3.8 
 conda activate STOUT
+conda install -c conda-forge rdkit
 pip install STOUT-pypi
 ```
 
