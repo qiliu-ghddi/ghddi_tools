@@ -1,0 +1,31 @@
+>>> Current path:
+/home/qiliu02/scripts
+>>> All envs:
+# conda environments:
+#
+base                  *  /home/qiliu02/miniconda3
+af2                      /home/qiliu02/miniconda3/envs/af2
+alphafold                /home/qiliu02/miniconda3/envs/alphafold
+cryodrgn                 /home/qiliu02/miniconda3/envs/cryodrgn
+ligand                   /home/qiliu02/miniconda3/envs/ligand
+pytorch18py36            /home/qiliu02/miniconda3/envs/pytorch18py36
+pytorch18py37            /home/qiliu02/miniconda3/envs/pytorch18py37
+pytorch18py38            /home/qiliu02/miniconda3/envs/pytorch18py38
+tf2                      /home/qiliu02/miniconda3/envs/tf2
+
+CUDA VISIABLE DEVICES: 5,4,3,2
+NSLOTS 1
+>>> Current env:
+# conda environments:
+#
+base                     /home/qiliu02/miniconda3
+af2                      /home/qiliu02/miniconda3/envs/af2
+alphafold                /home/qiliu02/miniconda3/envs/alphafold
+cryodrgn              *  /home/qiliu02/miniconda3/envs/cryodrgn
+ligand                   /home/qiliu02/miniconda3/envs/ligand
+pytorch18py36            /home/qiliu02/miniconda3/envs/pytorch18py36
+pytorch18py37            /home/qiliu02/miniconda3/envs/pytorch18py37
+pytorch18py38            /home/qiliu02/miniconda3/envs/pytorch18py38
+tf2                      /home/qiliu02/miniconda3/envs/tf2
+
+CUDA_VISIBLE_DEVICES is free now
